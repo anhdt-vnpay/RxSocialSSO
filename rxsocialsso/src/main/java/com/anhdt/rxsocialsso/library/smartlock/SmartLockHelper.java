@@ -4,8 +4,8 @@ package com.anhdt.rxsocialsso.library.smartlock;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+import com.anhdt.rxsocialsso.library.R;
 import com.google.gson.Gson;
-import com.pchmn.rxsocialauth.R;
 
 public class SmartLockHelper {
 
